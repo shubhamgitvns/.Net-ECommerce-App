@@ -45,7 +45,7 @@ namespace VsjAPI
                 
             }
 
-            //app.UseHttpsRedirection();
+            app.UseHttpsRedirection();
 
             app.UseRouting();
 
