@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vsjecommerceapp\\VsjAPI\\VsjAPI.csproj": {}
+    "C:\\vsjecommerceapp\\vsjapi\\VsjAPI.csproj": {}
   },
   "projects": {
-    "C:\\vsjecommerceapp\\VsjAPI\\VsjAPI.csproj": {
+    "C:\\vsjecommerceapp\\vsjapi\\VsjAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vsjecommerceapp\\VsjAPI\\VsjAPI.csproj",
+        "projectUniqueName": "C:\\vsjecommerceapp\\vsjapi\\VsjAPI.csproj",
         "projectName": "VsjAPI",
-        "projectPath": "C:\\vsjecommerceapp\\VsjAPI\\VsjAPI.csproj",
+        "projectPath": "C:\\vsjecommerceapp\\vsjapi\\VsjAPI.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\vsjecommerceapp\\VsjAPI\\obj\\",
+        "outputPath": "C:\\vsjecommerceapp\\vsjapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
