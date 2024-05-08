@@ -62,3 +62,4 @@ D:\.Net-ECommerce-App\VsjAPI\obj\Debug\net5.0\refint\VsjAPI.dll
 D:\.Net-ECommerce-App\VsjAPI\obj\Debug\net5.0\VsjAPI.pdb
 D:\.Net-ECommerce-App\VsjAPI\obj\Debug\net5.0\VsjAPI.genruntimeconfig.cache
 D:\.Net-ECommerce-App\VsjAPI\obj\Debug\net5.0\ref\VsjAPI.dll
+D:\.Net-ECommerce-App\VsjAPI\bin\Debug\net5.0\libman.json

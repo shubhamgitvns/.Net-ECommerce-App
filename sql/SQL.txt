@@ -1,0 +1,24 @@
+CREATE TABLE [dbo].test
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [name] VARCHAR(50) NULL
+)
+
+//********** Update Query***********//
+
+UPDATE TEST
+SET name='KKK'
+WHERE ID=2
+
+
+
+//********** Select Query***********//
+SELECT * FROM TEST;
+
+
+
+//********** Delete Query***********//
+
+
+Delete from TEST
+WHERE ID=2
