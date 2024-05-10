@@ -11,11 +11,10 @@ namespace VsjAPI.Controllers
         public System.Collections.Generic.IEnumerable<Person> GetItems()
         {
 
-            Person[] p = new Person[1];
-            p[0] = new Person("Shubham", "Varanasi", 90);
-            //p[0].Bookname="Dhoni";
-               // p[1] = new Person("Computer", "Python", 990);
-            //p[2] = new Person("Computer", "Python", 990);
+            Person[] p = new Person[3];
+            p[0] = new Person("Shubham", "Varanasi", 20);
+            p[1] = new Person("Akash", "Varanasi", 40);
+           p[2] = new Person("join", "rom", 70);
             return p;
         }
 
