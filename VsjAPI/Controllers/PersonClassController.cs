@@ -5,30 +5,31 @@ namespace VsjAPI.Controllers
 
     public class Person
     {
-        String name, city;
-        int age;
+        public Int32 Id
+        { get; set; }
         public String Name
         { get; set; }
 
         public String City
         { get; set; }
 
-        public int Age
+        public String Address
         { get; set; }
 
 
 
 
-        public Person(string name, string city, int age)
+        public Person(int id, string name, string city,  string address)
         {
+            this.Id = id;
             this.Name = name;
             this.City = city;
-            this.Age = age;
+            this.Address = address;
         }
 
         public override string? ToString()
         {
-            return "Name=" + Name + ", " + "City=" + City + ", " + "Age=" + Age;
+            return "Id=" + Id + "," + "Name=" + Name + ", " + "City=" + City + ", " + "Address=" + Address;
         }
     }
     public class PersonClassController

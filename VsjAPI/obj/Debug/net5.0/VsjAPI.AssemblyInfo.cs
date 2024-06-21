@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VsjAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09b6b939aa2debee1befdbdf1667675596716ef6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42d1f6634726e2e00fb1051599badb4b161aad41")]
 [assembly: System.Reflection.AssemblyProductAttribute("VsjAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VsjAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

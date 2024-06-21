@@ -4,8 +4,7 @@ namespace VsjAPI.Controllers
 {
     public class Book
     {
-        String bookname, subject;
-        int price;
+     
             public String Bookname
             { get; set; }
 

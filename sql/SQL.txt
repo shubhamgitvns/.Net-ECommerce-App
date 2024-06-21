@@ -22,3 +22,47 @@ SELECT * FROM TEST;
 
 Delete from TEST
 WHERE ID=2
+
+
+
+//****************** Join query*****************//
+
+
+select * from football f
+ join
+crickets c
+on f.name=c.name
+
+
+//****************** full outer Join query*****************//
+
+
+select * from football f
+full outer join
+crickets c
+on f.name=c.name
+
+
+//****************** left join query*****************//
+
+
+select * from football f
+left join
+crickets c
+on f.name=c.name
+
+
+
+
+//****************** right Join query*****************//
+
+
+select * from football f
+right join
+crickets c
+on f.name=c.name
+
+//**************Insert table value in sql **********************//
+
+Insert into football values(:name,:goals)
+
